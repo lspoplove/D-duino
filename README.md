@@ -1,6 +1,6 @@
 # D-duino
 D-duino is a combination of ESP8266 and OLED. You can use different language(Arduino&LUA) to program it.
-![image](https://github.com/lspoplove/D-duino/tree/master/Documents/SAM_2094.jpg)
+![image](https://github.com/lspoplove/D-duino/blob/master/Documents/SAM_2094.JPG)
 # Pin map
 ![image](https://github.com/lspoplove/D-duino/blob/master/Documents/D-duino.png)
 
