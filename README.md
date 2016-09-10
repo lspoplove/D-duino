@@ -5,10 +5,11 @@ D-duino is a combination of ESP8266 and OLED. You can use different language(Ard
 ![image](https://github.com/lspoplove/D-duino/blob/master/Documents/D-duino.png)
 
 
-Homepage
+# Homepage
 http://dong-sen.com/
 
-Shop
+# Shop
+
 D-duino V1
 https://www.tindie.com/products/lspoplove/d-duino-esp8266-and-nodemcu-and-096-oled-display-/
 
