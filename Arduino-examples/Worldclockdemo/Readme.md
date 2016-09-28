@@ -1,4 +1,4 @@
-![image](https://github.com/lspoplove/D-duino/blob/master/Documents/IMG_2511.jpg)
+![image](https://github.com/lspoplove/D-duino/blob/master/Documents/IMG_2511.JPG)
 
 Please refer to https://github.com/squix78
 download 《esp8266-oled-ssd1306》《esp8266-weather-station》《json-streaming-parser》 this 3 files into Arduino library.
