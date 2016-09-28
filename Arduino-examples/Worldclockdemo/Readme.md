@@ -13,8 +13,13 @@ Install the following libraries with your Arduino Library Manager in Sketch > In
 
 
 Go to http://wunderground.com, create an account and get an API Key
+
 In the Arduino IDE go to File > Examples > ESP8266 Weather Station
+
 Enter the Wunderground API Key
+
 Enter your Wifi credentials
+
 Adjust the location according to Wunderground API, e.g. Zurich, CH
+
 Adjust UTC offset
