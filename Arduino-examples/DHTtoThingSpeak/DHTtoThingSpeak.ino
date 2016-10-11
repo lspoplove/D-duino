@@ -4,9 +4,9 @@
 #include "SSD1306.h" 
 SSD1306  display(0x3c, D1, D2);
 // replace with your channel's thingspeak API key, 
-String apiKey = "58VFG20FBKMEXHG2";
-const char* ssid = "NewLife";
-const char* password = "quanmeiling";
+String apiKey = "Your API Key";
+const char* ssid = "Your WiFi";
+const char* password = "Your password";
  
 const char* server = "api.thingspeak.com";
 #define DHTPIN 2 // what pin we're connected to
