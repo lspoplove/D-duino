@@ -40,8 +40,8 @@ void loop() {
     {
       // Print SSID and RSSI for each network found     
       display.drawString(0,10+k,String(WiFi.SSID(i))); 
-      display.drawString(80,10+k,String(WiFi.RSSI(i))); 
-      display.drawString(100,10+k,"db"); 
+      display.drawString(90,10+k,String(WiFi.RSSI(i))); 
+      display.drawString(110,10+k,"db"); 
       k=k+10;
       delay(10);
     }
