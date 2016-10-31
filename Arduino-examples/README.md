@@ -1,3 +1,4 @@
+For D-duino, D1(GPIO5) is SDA,D2(GPIO4) is SCL.
 Please download 
 https://github.com/lspoplove/esp8266-oled-ssd1306
 
