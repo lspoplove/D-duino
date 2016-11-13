@@ -4,9 +4,9 @@
 #include "SH1106.h" 
 SH1106  display(0x3c, D1, D2);
 // replace with your channel's thingspeak API key, 
-String apiKey = "58VFG20FBKMEXHG2";
-const char* ssid = "NewLife";
-const char* password = "quanmeiling";
+String apiKey = "Your API Key";
+const char* ssid = "Your WiFi";
+const char* password = "Your Password";
  
 const char* server = "api.thingspeak.com";
 
