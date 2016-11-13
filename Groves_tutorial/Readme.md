@@ -1,4 +1,4 @@
-![image](https://github.com/lspoplove/D-duino/blob/master/Documents/D-duino.png)
+![image](https://github.com/lspoplove/D-duino/blob/master/Documents/2016-11-03T13 46 14.343Z-SAM_2242.JPG.855x570_q85_pad_rcrop.jpg)
 All this tutorial is under D-duino-B platform
 https://www.tindie.com/products/lspoplove/d-duino-barduino-and-nodemcu-and-esp8266-and-13oled
 
