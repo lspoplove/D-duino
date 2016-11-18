@@ -20,6 +20,7 @@ String form =
   "<center>"
   "<h1>Talk to D-duino</h1>"
   "<form action='msg'><p>Type your musicalnote<input type='text' name='msg' size=100 autofocus> <input type='submit' value='Submit'></form>"
+  "<p>3345|5432|1123|3.22-|3345|5432|1123|2.11-||</p>"
   "</center>"
   "</html>" ;
   
