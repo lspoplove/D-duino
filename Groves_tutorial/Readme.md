@@ -10,3 +10,9 @@ Please change #include "SH1106.h"  ->  #include "SSD1306.h"
 
 D-duino has 0.96 OLED which is using SSD1306
 D-duino-B has 1.3 OLED which is using SH1106
+
+Project:
+Control Grove LED by Web
+http://www.instructables.com/id/Control-Grove-LED-by-WebD-duino-B/
+Display distance by Ultrasonic sensor and Upload to ThingSpeak
+http://www.instructables.com/id/Display-Distance-by-Ultrasonic-Sensor-and-Upload-t/
