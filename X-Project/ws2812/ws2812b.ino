@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 
 // NeoPixel stick DIN pin
-#define DIN_PIN D2
+#define DIN_PIN D3
 
 // How many NeoPixels on the stick?
 #define NUM_PIXELS 8
