@@ -21,6 +21,7 @@ http://dong-sen.com/
 
 D-duino V1
 https://www.tindie.com/products/lspoplove/d-duino-esp8266-and-nodemcu-and-096-oled-display-/
+https://www.elecrow.com/d-duino.html
 
 D-duino V2
 https://www.tindie.com/products/lspoplove/d-duino-v2arduino-and-nodemcu-and-esp8266-and-096oled/
